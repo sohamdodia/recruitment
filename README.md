@@ -24,7 +24,7 @@ Create a single-page web app that:
 
 1. Fork this github repository using your personal github account
 2. Create your solution. Test it. Test it again to be sure. Commit it and push to your personal repo.
-3. Push it to your personal GitHub Repo and send us the URL via email at nawaz@cloudboost.io
+3. Push it to your personal GitHub Repo and send us the URL via Skype (If you're being interviewed via Skype). 
 
 ## Evaluation Criteria
 
