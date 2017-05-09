@@ -1,3 +1,19 @@
+### Getting Started
+1. `npm install -g create-react-app`
+2. `git clone https://github.com/sohamdodia/recruitment.git sohamdodia`
+3. `cd sohamdodia/frontend`
+4. `npm install`
+5. `npm run build`
+6. `cp -r build ../backend/public`
+7. `cd ../backend`
+8. `npm install`
+9. `node server/server.js`
+10. Open `http://localhost:3001`
+
+### [Demo](https://sohamdodia-ipsapp.herokuapp.com/)
+
+
+
 # Test Project 
 
 Shows a list of IP addresses viewing the page
