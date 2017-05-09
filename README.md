@@ -13,9 +13,10 @@
 ### [Demo](https://sohamdodia-ipsapp.herokuapp.com/)
 
 ### Note
--If you test on Heroku then this will happen : 
-	-Your requests are proxied via Heroku's Load Balancers, so the IPs you see belong to Heroku's load balancers and not your computer.This may present a case where two tabs from the same computer to my demo link may have different IPs.
-	-However the application would work as expected on a local network without any load balancers.
+- If you test on Heroku then this will happen :
+- Your requests are proxied via Heroku's Load Balancers, so the IPs you see belong to Heroku's load balancers and not your computer.This may present a case where two tabs from the same computer to my demo link may have different IPs.
+- However the application would work as expected on a local network without any load balancers.
+
 # Test Project 
 
 Shows a list of IP addresses viewing the page
